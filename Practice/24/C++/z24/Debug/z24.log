@@ -1,0 +1,32 @@
+﻿  z24.cpp
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(1,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(1,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "joutput"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(2,19): error C2065: users: необъявленный идентификатор
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(2,19): error C3312: не найдена вызываемая функция "begin" для типа "unknown-type"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(2,19): error C3312: не найдена вызываемая функция "end" для типа "unknown-type"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(2,1): error C2059: синтаксическая ошибка: for
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(2,1): error C2059: синтаксическая ошибка: )
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(2,26): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(3,5): error C2065: joutput: необъявленный идентификатор
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(6,13): error C2065: pair: необъявленный идентификатор
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(10,13): error C2065: pair: необъявленный идентификатор
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(12,11): error C2059: синтаксическая ошибка: ;
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(13,1): error C2059: синтаксическая ошибка: }
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(13,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(15,6): error C2039: "ofstream": не является членом "std".
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\predefined C++ types (compiler internal)(417): message : см. объявление "std"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(16,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(16,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(16,16): error C2039: "setw": не является членом "std".
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\predefined C++ types (compiler internal)(417): message : см. объявление "std"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(16,43): error C2039: "endl": не является членом "std".
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\predefined C++ types (compiler internal)(417): message : см. объявление "std"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(17,7): error C3927: "->": конечный тип возвращаемого значения недопустим после оператора объявления, не относящегося к функции.
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(17,7): error C3484: синтаксическая ошибка: требуется "->" перед возвращающим типом
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(17,13): error C3613: отсутствует тип возвращаемого значения после "->" (предполагается int)
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(17,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(17,1): error C2086: int output: переопределение
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(16): message : см. объявление "output"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(17,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "close"
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(18,1): error C2059: синтаксическая ошибка: }
+C:\Users\rzago\Desktop\Programming\Practice\24\C++\z24\z24.cpp(18,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
