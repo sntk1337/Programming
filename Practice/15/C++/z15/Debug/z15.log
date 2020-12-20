@@ -1,4 +1,0 @@
-﻿  z15.cpp
-C:\Users\rzago\Desktop\Programming\Practice\15\C++\z15\z15.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\rzago\Desktop\Programming\Practice\15\C++\z15\z15.cpp(32): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
-  z15.vcxproj -> C:\Users\rzago\Desktop\Programming\Practice\15\C++\z15\Debug\z15.exe
